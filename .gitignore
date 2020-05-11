@@ -1,0 +1,5 @@
+build
+.clang-format
+compile_commands.json
+.clangd
+report/Brandon_Marlowe_Midterm_Project.csv
